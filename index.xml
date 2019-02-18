@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>仪器中心</title>
-    <link>http://example.org/</link>
+    <link>https://chemxmu.github.io/yqzx-web/</link>
     <description>Recent content on 仪器中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 17 Feb 2019 14:59:40 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chemxmu.github.io/yqzx-web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>联系我们</title>
-      <link>http://example.org/contract/</link>
+      <link>https://chemxmu.github.io/yqzx-web/contract/</link>
       <pubDate>Sun, 17 Feb 2019 14:59:40 +0800</pubDate>
       
-      <guid>http://example.org/contract/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/contract/</guid>
       <description>还在建设中&amp;hellip;</description>
     </item>
     
     <item>
       <title>资料下载</title>
-      <link>http://example.org/resources/</link>
+      <link>https://chemxmu.github.io/yqzx-web/resources/</link>
       <pubDate>Sun, 17 Feb 2019 14:59:34 +0800</pubDate>
       
-      <guid>http://example.org/resources/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/resources/</guid>
       <description>还在建设中&amp;hellip;</description>
     </item>
     
     <item>
       <title>对外服务</title>
-      <link>http://example.org/services/</link>
+      <link>https://chemxmu.github.io/yqzx-web/services/</link>
       <pubDate>Sun, 17 Feb 2019 14:58:45 +0800</pubDate>
       
-      <guid>http://example.org/services/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/services/</guid>
       <description>还在建设中&amp;hellip;</description>
     </item>
     
     <item>
       <title>贵重仪器设备收费管理流程</title>
-      <link>http://example.org/todo/second/</link>
+      <link>https://chemxmu.github.io/yqzx-web/todo/second/</link>
       <pubDate>Sun, 27 Jan 2019 15:33:35 +0800</pubDate>
       
-      <guid>http://example.org/todo/second/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/todo/second/</guid>
       <description>为配合《厦门大学贵重仪器设备开放使用收费暂行管理办法（修订）》的施行，简化贵重仪器设备使用手续，提高管理效率，最大限度地方便广大用户使用学校共享平台的仪器设备，特编写贵重仪器设备校内收费管理流程指南，该指南主要针对传统纸质材料申报的操作流程，待贵重仪器设备管理信息系统正式运行后，经授权的校内用户可通过网上登记方式申请使用仪器设备并完成收费，校内收费具体管理流程如下：
 1、首先由机组人员填写“厦门大学贵重仪器设备开放使用收费明细表”，该表按支出经费卡号填写。表格填写完毕，仪器负责人签名后交学院仪器开放使用收费管理秘书汇总，本表一式一份。
 2、学院汇总人员收集各机组填写的汇总表，根据仪器汇总表按支出经费卡号分类填写“厦门大学贵重仪器设备开放使用收费学院汇总表”。表格填写完毕，经费卡负责人与学院分管仪器负责人签名，本表一式一份。
@@ -56,19 +56,19 @@
     
     <item>
       <title>申购10万元以上贵重仪器设备流程</title>
-      <link>http://example.org/todo/first/</link>
+      <link>https://chemxmu.github.io/yqzx-web/todo/first/</link>
       <pubDate>Sun, 27 Jan 2019 15:30:13 +0800</pubDate>
       
-      <guid>http://example.org/todo/first/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/todo/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>化学化工学院关于2018-2019学年寒假期间有关事项的通知</title>
-      <link>http://example.org/2019/01/%E5%8C%96%E5%AD%A6%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E2018-2019%E5%AD%A6%E5%B9%B4%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E5%8C%96%E5%AD%A6%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E2018-2019%E5%AD%A6%E5%B9%B4%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:34 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E5%8C%96%E5%AD%A6%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E2018-2019%E5%AD%A6%E5%B9%B4%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E5%8C%96%E5%AD%A6%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E2018-2019%E5%AD%A6%E5%B9%B4%E5%AF%92%E5%81%87%E6%9C%9F%E9%97%B4%E6%9C%89%E5%85%B3%E4%BA%8B%E9%A1%B9%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
       <description>学院各单位：
 根据(2019)厦大办6号文件通知精神，为了做好寒假期间的安全保卫等各项工作，经学院研究，特作如下通知，请各单位认真执行：
 一、根据校历，本学年寒假从2018 年1 月20 日（星期日）起至2 月16 日（星期六）止，2 月18日（星期一）起正式上课。2018－2019学年第二学期各类学生报到注册时间为2月17日（星期日）。
@@ -83,19 +83,19 @@
     
     <item>
       <title>转分析测试中心：关于印发2019年度检验检测机构和实验室培训计划的通知</title>
-      <link>http://example.org/2019/01/%E8%BD%AC%E5%88%86%E6%9E%90%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%BF%83%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912019%E5%B9%B4%E5%BA%A6%E6%A3%80%E9%AA%8C%E6%A3%80%E6%B5%8B%E6%9C%BA%E6%9E%84%E5%92%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9F%B9%E8%AE%AD%E8%AE%A1%E5%88%92%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E8%BD%AC%E5%88%86%E6%9E%90%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%BF%83%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912019%E5%B9%B4%E5%BA%A6%E6%A3%80%E9%AA%8C%E6%A3%80%E6%B5%8B%E6%9C%BA%E6%9E%84%E5%92%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9F%B9%E8%AE%AD%E8%AE%A1%E5%88%92%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:31 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E8%BD%AC%E5%88%86%E6%9E%90%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%BF%83%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912019%E5%B9%B4%E5%BA%A6%E6%A3%80%E9%AA%8C%E6%A3%80%E6%B5%8B%E6%9C%BA%E6%9E%84%E5%92%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9F%B9%E8%AE%AD%E8%AE%A1%E5%88%92%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E8%BD%AC%E5%88%86%E6%9E%90%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%BF%83%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%912019%E5%B9%B4%E5%BA%A6%E6%A3%80%E9%AA%8C%E6%A3%80%E6%B5%8B%E6%9C%BA%E6%9E%84%E5%92%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%9F%B9%E8%AE%AD%E8%AE%A1%E5%88%92%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
       <description>关于印发2019年度检验检测机构和实验室培训计划的通知——李小华.pdf</description>
     </item>
     
     <item>
       <title>转实验办：关于做好2020-2022年中央高校改善基本办学条件专项资金实验室信息化建设项目申报工作的通知</title>
-      <link>http://example.org/2019/01/%E8%BD%AC%E5%AE%9E%E9%AA%8C%E5%8A%9E%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD2020-2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E9%AB%98%E6%A0%A1%E6%94%B9%E5%96%84%E5%9F%BA%E6%9C%AC%E5%8A%9E%E5%AD%A6%E6%9D%A1%E4%BB%B6%E4%B8%93%E9%A1%B9%E8%B5%84%E9%87%91%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BF%A1%E6%81%AF%E5%8C%96%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E8%BD%AC%E5%AE%9E%E9%AA%8C%E5%8A%9E%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD2020-2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E9%AB%98%E6%A0%A1%E6%94%B9%E5%96%84%E5%9F%BA%E6%9C%AC%E5%8A%9E%E5%AD%A6%E6%9D%A1%E4%BB%B6%E4%B8%93%E9%A1%B9%E8%B5%84%E9%87%91%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BF%A1%E6%81%AF%E5%8C%96%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:29 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E8%BD%AC%E5%AE%9E%E9%AA%8C%E5%8A%9E%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD2020-2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E9%AB%98%E6%A0%A1%E6%94%B9%E5%96%84%E5%9F%BA%E6%9C%AC%E5%8A%9E%E5%AD%A6%E6%9D%A1%E4%BB%B6%E4%B8%93%E9%A1%B9%E8%B5%84%E9%87%91%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BF%A1%E6%81%AF%E5%8C%96%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E8%BD%AC%E5%AE%9E%E9%AA%8C%E5%8A%9E%E5%85%B3%E4%BA%8E%E5%81%9A%E5%A5%BD2020-2022%E5%B9%B4%E4%B8%AD%E5%A4%AE%E9%AB%98%E6%A0%A1%E6%94%B9%E5%96%84%E5%9F%BA%E6%9C%AC%E5%8A%9E%E5%AD%A6%E6%9D%A1%E4%BB%B6%E4%B8%93%E9%A1%B9%E8%B5%84%E9%87%91%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BF%A1%E6%81%AF%E5%8C%96%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
       <description>&lt;p&gt;各学院:&lt;/p&gt;
 
 &lt;p&gt;根据中央高校改善基本办学条件专项资金实行项目库管理，并按照规定编制三年滚动规划。现就2020-2022年中央高校改善基本办学条件专项资金教学实验室设备购置项目申报工作有关事项通知如下：
@@ -104,20 +104,20 @@
     
     <item>
       <title>启用IR200、Avatar 330、Nicolet 380傅立叶变换红外分光光度计网上预约的通告</title>
-      <link>http://example.org/2019/01/%E5%90%AF%E7%94%A8ir200avatar-330nicolet-380%E5%82%85%E7%AB%8B%E5%8F%B6%E5%8F%98%E6%8D%A2%E7%BA%A2%E5%A4%96%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%AE%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E7%9A%84%E9%80%9A%E5%91%8A/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E5%90%AF%E7%94%A8ir200avatar-330nicolet-380%E5%82%85%E7%AB%8B%E5%8F%B6%E5%8F%98%E6%8D%A2%E7%BA%A2%E5%A4%96%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%AE%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E7%9A%84%E9%80%9A%E5%91%8A/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:26 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E5%90%AF%E7%94%A8ir200avatar-330nicolet-380%E5%82%85%E7%AB%8B%E5%8F%B6%E5%8F%98%E6%8D%A2%E7%BA%A2%E5%A4%96%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%AE%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E7%9A%84%E9%80%9A%E5%91%8A/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E5%90%AF%E7%94%A8ir200avatar-330nicolet-380%E5%82%85%E7%AB%8B%E5%8F%B6%E5%8F%98%E6%8D%A2%E7%BA%A2%E5%A4%96%E5%88%86%E5%85%89%E5%85%89%E5%BA%A6%E8%AE%A1%E7%BD%91%E4%B8%8A%E9%A2%84%E7%BA%A6%E7%9A%84%E9%80%9A%E5%91%8A/</guid>
       <description>&lt;p&gt;为方便使用与管理，即日起，仪器分析中心的三台傅立叶变换红外光谱仪（型号：Nicolet?IR200、Nicolet?Avatar 330、Nicolet?380，放置地点：卢嘉锡楼135室)?实验机时实行网上预约。?
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>化学楼196室、卢嘉锡楼141室NMR刷卡上机系统启用通告及使用注意事项</title>
-      <link>http://example.org/2019/01/%E5%8C%96%E5%AD%A6%E6%A5%BC196%E5%AE%A4%E5%8D%A2%E5%98%89%E9%94%A1%E6%A5%BC141%E5%AE%A4nmr%E5%88%B7%E5%8D%A1%E4%B8%8A%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E7%94%A8%E9%80%9A%E5%91%8A%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E5%8C%96%E5%AD%A6%E6%A5%BC196%E5%AE%A4%E5%8D%A2%E5%98%89%E9%94%A1%E6%A5%BC141%E5%AE%A4nmr%E5%88%B7%E5%8D%A1%E4%B8%8A%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E7%94%A8%E9%80%9A%E5%91%8A%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:23 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E5%8C%96%E5%AD%A6%E6%A5%BC196%E5%AE%A4%E5%8D%A2%E5%98%89%E9%94%A1%E6%A5%BC141%E5%AE%A4nmr%E5%88%B7%E5%8D%A1%E4%B8%8A%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E7%94%A8%E9%80%9A%E5%91%8A%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E5%8C%96%E5%AD%A6%E6%A5%BC196%E5%AE%A4%E5%8D%A2%E5%98%89%E9%94%A1%E6%A5%BC141%E5%AE%A4nmr%E5%88%B7%E5%8D%A1%E4%B8%8A%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%90%AF%E7%94%A8%E9%80%9A%E5%91%8A%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</guid>
       <description>NMR谱仪已启用刷卡管理设备，将实时记录谱仪使用情况。
 系统处于锁定状态时，刷卡后解锁，同时开始记时；结束实验后，请退出topsin操作系统（否则锁定系统时，将强行退出），再次刷卡，锁定系统，同时结束记时。
 请勿在采样状态下，刷卡，锁定系统，这样将退出采样，并可能造成谱仪运行故障。若发生此类操作，将被认为是逃避记录机时，将予以其课题组停止上机操作等处罚。
@@ -132,10 +132,10 @@
     
     <item>
       <title>HITACHI S-4800扫描电镜试运行通知</title>
-      <link>http://example.org/2019/01/hitachi-s-4800%E6%89%AB%E6%8F%8F%E7%94%B5%E9%95%9C%E8%AF%95%E8%BF%90%E8%A1%8C%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/hitachi-s-4800%E6%89%AB%E6%8F%8F%E7%94%B5%E9%95%9C%E8%AF%95%E8%BF%90%E8%A1%8C%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:19 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/hitachi-s-4800%E6%89%AB%E6%8F%8F%E7%94%B5%E9%95%9C%E8%AF%95%E8%BF%90%E8%A1%8C%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/hitachi-s-4800%E6%89%AB%E6%8F%8F%E7%94%B5%E9%95%9C%E8%AF%95%E8%BF%90%E8%A1%8C%E9%80%9A%E7%9F%A5/</guid>
       <description>HITACHI S-4800扫描电镜已于2009年1月8日安装完毕，为了满足学校广大师生科研的需求，中心决定即日起S-4800扫描电镜进行对外测试试运行。 试运行期间培训时间安排在上午，其余时间对培训合格用户开放。需要使用的用户请与仪器管理人联系。 仪器管理人：吴元菲（化学楼130室，电话：13696921108） HITACHI S-4800扫描电镜机时申请表（暂行）
 仪器简介： 性能指标：  二次电子分辨率：1.0nm（15kV）； 电子枪：冷场发射电子源； 加速电压：0.5-30kV； 放大倍率：20-80万倍。  主要特点：  景深大，图像呈三维立体效果，能够提供很多有价值的信息； 能直接观察大样品的原始表面，样品制作简单； 利用X射线能谱仪可在对样品进行形貌观察的同时，对观察到的某区域或某点进行成分分析。  主要功能：  二次电子形貌（SEI）：对试样进行表面形貌观察分析； 元素的定性分析（EDX）：结合X射线能谱仪对试样表面某区域或某点进行成分定性和定量分析；  应用领域： 扫描电镜已广泛应用于材料科学、冶金、地质勘探，机械制造、生产工艺控制、产品质量控制、灾害分析鉴定、宝石鉴定、医学、生物学等科研和工程领域，具体情况如下：
  金属、非金属及复合材料、生物样品表面形貌、组织结构的观察分析及照相。 纳米材料：纳米粉及纳米粉体的形貌观察和粒度测量统计。 微区成分的定性、定量计算，并对重点区域做元素分布图。 颗粒样品粒径、面积、周长、圆度的测量，提供粒度分布图，并可对孔径样品做孔径分布直方图。 可对固体材料的表面涂层、镀层进行结合情况观察和厚度测量。 机械设备、压力容器、管道及汽车零件的失效分析。 金属、非金属、复合材料、生物样品等固体材料的显微分析。  化学化工学院仪器分析中心 2009年02月20日</description>
@@ -143,10 +143,10 @@
     
     <item>
       <title>液体核磁共振谱仪操作培训通知</title>
-      <link>http://example.org/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:14 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</guid>
       <description>根据研究生科研需要，本学期化学化工学院液体核磁共振谱仪的常规操作培训计划于下周进行。 培训将分为3个环节进行：
  集中授课：核磁共振基本原理及实验安全讲座 时　间：2009年10月19日18:30， 地　点：化四112, 培训教师：廖新丽、欧阳捷；
  分组上机实践：实验操作培训，含常规仪器操作、实验方法、谱图处理及实验中的安全注意事项等；
@@ -161,10 +161,10 @@
     
     <item>
       <title>关于LCQ液相色质谱联用仪恢复开放使用的通知</title>
-      <link>http://example.org/2019/01/%E5%85%B3%E4%BA%8Elcq%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E4%BB%AA%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E5%85%B3%E4%BA%8Elcq%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E4%BB%AA%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:37:07 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E5%85%B3%E4%BA%8Elcq%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E4%BB%AA%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E5%85%B3%E4%BA%8Elcq%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E4%BB%AA%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%80%9A%E7%9F%A5/</guid>
       <description>LCQ液相色质谱联用仪（化学楼127室）真空泵已换，现仪器各项指标调谐正常，恢复对外开放测试。 欢迎随时预约上岗培训。
 联系方式： E-MAIL：ljyu@xmu.edu.cn 电话：8945348，于老师
 化学化工学院仪器分析中心 2009年11月05日</description>
@@ -172,49 +172,49 @@
     
     <item>
       <title>液体核磁共振谱仪操作培训通知</title>
-      <link>http://example.org/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</link>
       <pubDate>Sun, 27 Jan 2019 10:36:57 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</guid>
       <description>&lt;p&gt;考虑到10月份液体核磁常规操作培训的人数较多，部分同学反映当时未能参加上培训或者未及时关注到通知等原因，化学化工学院液体核磁共振实验室计划在12月份上旬增加一次集中培训和考核。
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://example.org/2019/01/second/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/second/</link>
       <pubDate>Sun, 27 Jan 2019 09:40:58 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/second/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/second/</guid>
       <description>&lt;p&gt;我院高锦豪教授课题组撰写的综述性论文“Structure–Relaxivity Relationships of Magnetic Nanoparticles for Magnetic Resonance Imaging”发表于Wiley旗下杂志Advanced Materials (DOI:10.1002/adma.201804567)。该论文系统地介绍了磁性纳米颗粒的结构特征与其磁共振造影性能的构效关系。
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://example.org/2019/01/second/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/second/</link>
       <pubDate>Sun, 27 Jan 2019 09:40:58 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/second/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>化学与化工学院仪器中心网站正式上线</title>
-      <link>http://example.org/2019/01/%E5%8C%96%E5%AD%A6%E4%B8%8E%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BB%AA%E5%99%A8%E4%B8%AD%E5%BF%83%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</link>
+      <link>https://chemxmu.github.io/yqzx-web/2019/01/%E5%8C%96%E5%AD%A6%E4%B8%8E%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BB%AA%E5%99%A8%E4%B8%AD%E5%BF%83%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</link>
       <pubDate>Sun, 27 Jan 2019 09:25:43 +0800</pubDate>
       
-      <guid>http://example.org/2019/01/%E5%8C%96%E5%AD%A6%E4%B8%8E%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BB%AA%E5%99%A8%E4%B8%AD%E5%BF%83%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/2019/01/%E5%8C%96%E5%AD%A6%E4%B8%8E%E5%8C%96%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BB%AA%E5%99%A8%E4%B8%AD%E5%BF%83%E7%BD%91%E7%AB%99%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</guid>
       <description>&lt;p&gt;first second
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>化学与化工学院仪器中心介绍</title>
-      <link>http://example.org/about/</link>
+      <link>https://chemxmu.github.io/yqzx-web/about/</link>
       <pubDate>Fri, 25 Jan 2019 15:29:19 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/about/</guid>
       <description>随着学院建设的发展，化学化工学院大中型仪器设备的数量和档次都得到大幅度提高，价值十万元以上人民币的仪器设备数量超过二百余台（套）、总价值过亿元。2007年10月，为进一步改善学院贵重仪器设备的管理和维护、提高仪器设备利用率、促进开放共享，以更好地为学科建设、科学研究和人才培养服务，学院办公会议研究决定成立“化学化工学院仪器分析中心”。
 　作为学院的公共仪器分析测试服务平台，仪器分析中心分类整合了学院部分大中型通用仪器设备，并实行专管公用，对纳入中心管理的仪器设备的使用、维护和维修进行统一管理和安排。目前，已纳入中心管理的大中型仪器设备已达30台（套），其中十台（套）参与并通过了“实验室资质认定”。仪器分析中心的硬件环境和软件条件的建设正在逐步开展和完善中，仪器分析中心网站也将随中心建设工作的开展一同发展和完善。</description>
     </item>

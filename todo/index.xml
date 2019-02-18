@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todos on 仪器中心</title>
-    <link>http://example.org/todo/</link>
+    <link>https://chemxmu.github.io/yqzx-web/todo/</link>
     <description>Recent content in Todos on 仪器中心</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Jan 2019 15:33:35 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/todo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chemxmu.github.io/yqzx-web/todo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>贵重仪器设备收费管理流程</title>
-      <link>http://example.org/todo/second/</link>
+      <link>https://chemxmu.github.io/yqzx-web/todo/second/</link>
       <pubDate>Sun, 27 Jan 2019 15:33:35 +0800</pubDate>
       
-      <guid>http://example.org/todo/second/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/todo/second/</guid>
       <description>为配合《厦门大学贵重仪器设备开放使用收费暂行管理办法（修订）》的施行，简化贵重仪器设备使用手续，提高管理效率，最大限度地方便广大用户使用学校共享平台的仪器设备，特编写贵重仪器设备校内收费管理流程指南，该指南主要针对传统纸质材料申报的操作流程，待贵重仪器设备管理信息系统正式运行后，经授权的校内用户可通过网上登记方式申请使用仪器设备并完成收费，校内收费具体管理流程如下：
 1、首先由机组人员填写“厦门大学贵重仪器设备开放使用收费明细表”，该表按支出经费卡号填写。表格填写完毕，仪器负责人签名后交学院仪器开放使用收费管理秘书汇总，本表一式一份。
 2、学院汇总人员收集各机组填写的汇总表，根据仪器汇总表按支出经费卡号分类填写“厦门大学贵重仪器设备开放使用收费学院汇总表”。表格填写完毕，经费卡负责人与学院分管仪器负责人签名，本表一式一份。
@@ -29,10 +29,10 @@
     
     <item>
       <title>申购10万元以上贵重仪器设备流程</title>
-      <link>http://example.org/todo/first/</link>
+      <link>https://chemxmu.github.io/yqzx-web/todo/first/</link>
       <pubDate>Sun, 27 Jan 2019 15:30:13 +0800</pubDate>
       
-      <guid>http://example.org/todo/first/</guid>
+      <guid>https://chemxmu.github.io/yqzx-web/todo/first/</guid>
       <description></description>
     </item>
     
