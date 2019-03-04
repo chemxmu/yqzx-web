@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chemxmu.github.io/yqzx-web/affair/worknote/</loc>
+    <lastmod>2019-02-17T14:59:40+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chemxmu.github.io/yqzx-web/contract/</loc>
     <lastmod>2019-02-17T14:59:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/instr/showme/</loc>
+    <lastmod>2019-02-17T14:59:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/instr/videos/</loc>
+    <lastmod>2019-02-17T14:59:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/instr/</loc>
+    <lastmod>2019-02-17T14:59:34+08:00</lastmod>
   </url>
   
   <url>
@@ -15,6 +35,11 @@
   <url>
     <loc>https://chemxmu.github.io/yqzx-web/services/</loc>
     <lastmod>2019-02-17T14:58:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/2019/01/second/</loc>
+    <lastmod>2019-01-28T09:40:58+08:00</lastmod>
   </url>
   
   <url>
@@ -58,27 +83,7 @@
   </url>
   
   <url>
-    <loc>https://chemxmu.github.io/yqzx-web/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2019-01-27T10:37:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chemxmu.github.io/yqzx-web/2019/01/%E5%85%B3%E4%BA%8Elcq%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E4%BB%AA%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2019-01-27T10:37:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chemxmu.github.io/yqzx-web/2019/01/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2019-01-27T10:36:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chemxmu.github.io/yqzx-web/2019/01/second/</loc>
-    <lastmod>2019-01-27T09:40:58+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chemxmu.github.io/yqzx-web/2019/01/second/</loc>
+    <loc>https://chemxmu.github.io/yqzx-web/2019/01/three/</loc>
     <lastmod>2019-01-27T09:40:58+08:00</lastmod>
   </url>
   
@@ -88,8 +93,44 @@
   </url>
   
   <url>
+    <loc>https://chemxmu.github.io/yqzx-web/affair/todo/</loc>
+    <lastmod>2019-01-25T15:29:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chemxmu.github.io/yqzx-web/about/</loc>
     <lastmod>2019-01-25T15:29:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/affair/baoxiao/</loc>
+    <lastmod>2019-01-25T15:29:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/privacy-policy/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/2009/11/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</loc>
+    <lastmod>2009-11-23T10:36:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/2009/10/%E6%B6%B2%E4%BD%93%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%B0%B1%E4%BB%AA%E6%93%8D%E4%BD%9C%E5%9F%B9%E8%AE%AD%E9%80%9A%E7%9F%A5/</loc>
+    <lastmod>2009-10-14T10:37:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/2009/10/%E5%85%B3%E4%BA%8Elcq%E6%B6%B2%E7%9B%B8%E8%89%B2%E8%B4%A8%E8%B0%B1%E8%81%94%E7%94%A8%E4%BB%AA%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%80%9A%E7%9F%A5/</loc>
+    <lastmod>2009-10-14T10:37:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/affair/</loc>
+    <lastmod>2019-02-17T14:59:40+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -98,19 +139,62 @@
   </url>
   
   <url>
+    <loc>https://chemxmu.github.io/yqzx-web/purposes/news/</loc>
+    <lastmod>2019-01-28T09:40:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/purposes/notice/</loc>
+    <lastmod>2009-10-14T10:37:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/page/</loc>
+    <lastmod>2019-02-17T14:59:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://chemxmu.github.io/yqzx-web/post/</loc>
-    <lastmod>2019-01-27T10:37:34+08:00</lastmod>
+    <lastmod>2019-01-28T09:40:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/purposes/</loc>
+    <lastmod>2019-01-28T09:40:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/tags/tag1/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/tags/tag2/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chemxmu.github.io/yqzx-web/tags/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chemxmu.github.io/yqzx-web/todo/</loc>
     <lastmod>2019-01-27T15:33:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chemxmu.github.io/yqzx-web/purposes/trains/</loc>
+    <lastmod>2009-11-23T10:36:57+08:00</lastmod>
     <priority>0</priority>
   </url>
   

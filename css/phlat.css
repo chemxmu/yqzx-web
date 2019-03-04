@@ -1,42 +1,56 @@
 body {
     background-color: #f2f2f2;
-    padding-top: 100px;
+}
+
+.logobar {
+    background: url(/images/header-logo-light.png);
+    background-repeat: no-repeat;
+    background-position: 90% 18%;
 }
 
 /*
  * START NAVIGATION
  */
 .navbar-default {
-    background-color: #ffffff;
-    padding: 10px 0;
-    text-transform: uppercase;
-  -moz-box-shadow: 0 4px 8px rgba(0,0,0,0.40);
-  -webkit-box-shadow: 0 4px 8px rgba(0,0,0,0.40);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.40);
+  background-color: #004787;
+  -moz-box-shadow: 0 2px 4px rgba(0,0,0,0.40);
+  -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.40);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.40);
 }
 
 .navbar-default .navbar-brand {
-  color:#083f80;
+  color:#ffffff !important;
   font-size: 36px;
   font-weight: 700;
 }
 
-.nav>li:hover {
-    border-top: 4px solid #cc4444;
+.navbar .nav>li:hover {
+  background-color: #427bc1;
 }
 
-.nav>li {
-    border-top: 4px solid transparent;
+.navbar .nav>li {
+    border-top: 8px solid transparent;
     font-weight: 700;
-    margin: 0 20px;
+    padding: 0 20px;
     font-size: 18px;
 }
 
-.nav>li.active {
-    border-top: 4px solid #cc4444;
+.navbar .nav>li.active {
+  background-color: #427bc1;
+}
+
+.navbar-nav {
+  width: 100%;
+  text-align: center;
+}
+
+.navbar-nav > li {
+    float: none;
+    display: inline-block;
 }
 
 .navbar-nav>li>a {
+    color:#ffffff !important;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 0px;
@@ -52,8 +66,14 @@ body {
  */
 
  #content-main {
-     padding-left: 10px;
-     padding-right: 10px;
+ }
+ #carousel {
+     padding-bottom: 10px;
+     padding-left: 15px;
+     padding-right: 15px;
+ }
+ #carousel img {
+   width: 100%;
  }
 
  #content-main .row {
@@ -63,8 +83,16 @@ body {
 .content-card {
     background-color: #ffffff;
     border: 1px solid #e9e9e9;
-    padding: 40px;
     border-top: 3px solid #337ab7;
+    border-bottom: 3px solid #337ab7;
+    padding: 5px;
+    font-family: 'Alegreya', 'Palatino Linotype', 'Book Antiqua', Palatino, 'source-han-serif-sc', 'Source Han Serif SC', 'Source Han Serif CN', 'Source Han Serif TC', 'Source Han Serif TW', 'Source Han Serif', 'Songti SC', '仿宋', 'FangSong', 'NSimSun', 'Microsoft YaHei', serif;
+    color: #222;
+}
+.content-card p {
+  font-size: 120%;
+  line-height: 1.75;
+  text-indent: 2em;
 }
 
 .content-card .meta a {
@@ -122,11 +150,15 @@ body {
 .content-card h3 {
     margin-bottom: 15px;
     margin-top: 15px;
-    font-size: 18px
+    font-size: 18px;
+    border-bottom: 1px solid #337ab7; 
 }
 
 .content-card img {
-    width: 100%;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .content-card .list-inline {
@@ -172,8 +204,6 @@ body {
 .card {
     background-color: #ffffff;
     border: 1px solid #e9e9e9;
-    padding: 20px;
-    border-top: 3px solid #337ab7;
 }
 
 .card h2 {
@@ -192,6 +222,9 @@ body {
     padding-bottom: 10px;
     padding-top: 10px;
     border-bottom: 1px solid #f0f0f0;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
 }
 
 .posts-recent li:last-of-type {
@@ -208,9 +241,13 @@ body {
 
 footer {
     background-color: #dddddd;
+    border-top: 1px solid #d3d3d3;
     margin-top: 20px;
     padding-top: 15px;
     padding-bottom: 0px;
+    background-image: url(/images/header-logo-light.png);
+    background-repeat: no-repeat;
+    background-position: 90% 82%;
 }
 
 footer .container .row:not(:last-of-type) {
@@ -301,4 +338,36 @@ pre {
 
 pre code {
     white-space: pre;
+}
+
+
+.affair-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+.affair-card .card-body {
+  padding: 8px;
+}
+.affair-card .card-header {
+  color: #333;
+  font-size: 20px;
+  font-weight: 300%;
+  background-color: #ddd;
+  border-radius: 6px 6px 0 0; padding: 8px;
+}
+.affair-card .card-footer {
+  background-color: #ddd;
+  border-radius: 0 0 6px 6px; padding: 4px;
+}
+
+.instr-sidebar .nav>li>a {
+  display: block;
+  padding: 4px 10px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #363636;
+}
+.instr-sidebar .nav>li>a:hover {
+  background-color: #427bc1;
 }
