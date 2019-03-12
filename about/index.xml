@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中心概况 on 仪器中心</title>
+    <link>https://chemxmu.github.io/yqzx-web/about/</link>
+    <description>Recent content in 中心概况 on 仪器中心</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 25 Jan 2019 15:29:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://chemxmu.github.io/yqzx-web/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人员组成</title>
+      <link>https://chemxmu.github.io/yqzx-web/about/peoples/</link>
+      <pubDate>Fri, 25 Jan 2019 15:29:19 +0800</pubDate>
+      
+      <guid>https://chemxmu.github.io/yqzx-web/about/peoples/</guid>
+      <description>中心主任： 副主任：
+   姓名 岗位 电话 邮箱     张三 核磁组 1830000000 yqzx@xmu.edu.cn   张三 核磁组 1830000000 yqzx@xmu.edu.cn   张三 核磁组 1830000000 yqzx@xmu.edu.cn   张三 核磁组 1830000000 yqzx@xmu.edu.cn   李四 电镜组 1830000000 yqzx@xmu.edu.cn   李四 电镜组 1830000000 yqzx@xmu.edu.cn   李四 电镜组 1830000000 yqzx@xmu.edu.cn   李四 电镜组 1830000000 yqzx@xmu.edu.cn    </description>
+    </item>
+    
+  </channel>
+</rss>

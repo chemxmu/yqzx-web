@@ -3,7 +3,7 @@ body {
 }
 
 .logobar {
-    background: url(/images/header-logo-light.png);
+/*    background: url(/images/header-logo-light.png); */
     background-repeat: no-repeat;
     background-position: 90% 18%;
 }
@@ -189,6 +189,32 @@ body {
     text-decoration: none;
 }
 
+.content-card table {
+  width: 80%;
+  margin-bottom: 1.5em;
+  border-spacing: 0;
+}
+.content-card table thead {
+  padding: 0;
+  border: 0;
+}
+
+.content-card table thead th {
+  background-color: rgba(29,150,178,1);
+  border: 1px solid rgba(29,150,178,1);
+  font-weight: normal;
+  text-align: center;
+}
+.content-card table td {
+      text-align: center;
+}
+.content-card tr, th, td{
+  padding: 0.5em;
+  text-align: left;
+  vertical-align: middle;
+  white-space: normal;
+}
+
 .btn-custom {
     color: #ffffff;
     background-color: #cc4444;
@@ -245,7 +271,7 @@ footer {
     margin-top: 20px;
     padding-top: 15px;
     padding-bottom: 0px;
-    background-image: url(/images/header-logo-light.png);
+/*    background-image: url(/images/header-logo-light.png); */
     background-repeat: no-repeat;
     background-position: 90% 82%;
 }
